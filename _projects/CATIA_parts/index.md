@@ -8,24 +8,45 @@ skills:
 main-image: /CAD.png
 ---
 
-### Connecting rod
-<div style="text-align: center;">
-  {% include image-gallery.html images="1.png" height="400" %}
+## CAD Parts Gallery
+
+<div class="cad-gallery">
+  <div class="cad-item">
+    <img src="1.png" alt="Connecting Rod">
+    <p><strong>Connecting Rod</strong></p>
+  </div>
+  <div class="cad-item">
+    <img src="2.png" alt="Crankshaft">
+    <p><strong>Crankshaft</strong></p>
+  </div>
+  <div class="cad-item">
+    <img src="3.png" alt="Piston">
+    <p><strong>Piston</strong></p>
+  </div>
+  <div class="cad-item">
+    <img src="4.png" alt="Pin Safety Spring">
+    <p><strong>Pin Safety Spring</strong></p>
+  </div>
 </div>
 
-### Cranckshaft
-<div style="text-align: center;">
-  {% include image-gallery.html images="2.png" height="400" %}
-</div>
-
-
-### Piston
-<div style="text-align: center;">
-  {% include image-gallery.html images="1.png" height="400" %}
-</div>
-
-
-### Pin safety spring
-<div style="text-align: center;">
-  {% include image-gallery.html images="4.png" height="400" %}
-</div>
+<style>
+.cad-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+.cad-item {
+  text-align: center;
+}
+.cad-item img {
+  max-height: 400px;
+  width: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.cad-item p {
+  margin-top: 8px;
+  font-weight: bold;
+}
+</style>
