@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAD Parts Design
-description: Project focused on creating precise 3D mechanical parts using CATIA software, emphasizing modeling skills and technical detailing.
+description: Below are some of the mechanical parts I modeled using CATIA during my course.
 skills:
 - 3D modeling with CATIA
 - Technical drawing interpretation
