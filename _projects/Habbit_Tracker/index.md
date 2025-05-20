@@ -10,3 +10,13 @@ skills:
   - Productivity Tools
 main-image: /Habbit tracker.png
 ---
+
+
+### Introduction
+This project began as a way to deepen my understanding of Python and apply the knowledge I acquired through an online Udemy course. It uses JSON files to store data and relies on the Tkinter library to build a simple and functional graphical user interface. The current version was developed using a sequential programming approach. To organize and plan the project, I used PyCharm as the development environment, Zenkit for task tracking, and tools like Canva and Paint to create flowcharts and layout diagrams. In future versions, I plan to refactor the code using object-oriented programming and include data visualizations to better track long-term progress.
+
+### Images 
+{% include image-gallery.html images="1.jpg" height="400" %} 
+{% include image-gallery.html images="2.jpg" height="400" %} 
+{% include image-gallery.html images="3.jpg" height="400" %} 
+{% include image-gallery.html images="4.jpg" height="400" %} 
