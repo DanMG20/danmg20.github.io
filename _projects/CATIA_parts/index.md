@@ -21,7 +21,7 @@ main-image: /CAD.png
 
 ### Piston
 <div style="text-align: center;">
-  {% include image-gallery.html images="1.png" height="400" %}
+  {% include image-gallery.html images="3.png" height="400" %}
 </div>
 
 
