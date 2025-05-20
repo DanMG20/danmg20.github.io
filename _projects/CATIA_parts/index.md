@@ -1,11 +1,3 @@
-layout: post
-title: CAD Parts Design
-description: Project focused on creating precise 3D mechanical parts using CATIA software, emphasizing modeling skills and technical detailing.
-skills:
-- 3D modeling with CATIA
-- Technical drawing interpretation
-main-image: /project.webp
----
 
 
 <h2>CAD Parts Gallery</h2>
