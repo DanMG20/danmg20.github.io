@@ -21,7 +21,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
  reflecting a practical and detail-oriented engineering approach.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: .assets/images/profile-image/4.jpg
+profile_image: ./assets/images/profile-image/avatar.jpeg
 
 
 # Link your resume
