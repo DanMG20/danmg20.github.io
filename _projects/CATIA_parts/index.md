@@ -29,3 +29,14 @@ main-image: /CAD.png
 <div style="text-align: center;">
   {% include image-gallery.html images="4.png" height="400" %}
 </div>
+
+### Bracket
+<div style="text-align: center;">
+  {% include image-gallery.html images="5.png" height="400" %}
+</div>
+
+### Engine Assembly
+<div style="text-align: center;">
+  {% include image-gallery.html images="6.png" height="400" %}
+</div>
+
