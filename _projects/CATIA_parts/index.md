@@ -40,3 +40,7 @@ main-image: /CAD.png
   {% include image-gallery.html images="6.png" height="400" %}
 </div>
 
+### Lamp Assembly
+<div style="text-align: center;">
+  {% include image-gallery.html images="7.png" height="400" %}
+</div>
